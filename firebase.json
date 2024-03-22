@@ -1,4 +1,8 @@
 {
+  "hosting": {
+   "site": "adammiloszewicz-portfolio",
+   "public": "dist/minimalist-portfolio-website/browser"
+  },
   "firestore": {
     "rules": "firestore.rules",
     "indexes": "firestore.indexes.json"
